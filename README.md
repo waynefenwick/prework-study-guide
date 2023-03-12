@@ -1,29 +1,24 @@
-# <Prework Study Guide for Bootcamp>
+# Prework Study Guide for Bootcamp
 
-## An introduction to the basics of putting together your own web page
+## Basics of constructing your own web page
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- I started coding Bootcamp to take on a new career.
+- I started coding Bootcamp to take on a new career: I wanted to do this!
 - I worked on this project to starting building my coding skills.
 - This project has given me an excellent introduction to the foundation of coding.
 - I have learn a lot, especially related to the roles of HTML, CSS, Git and JavaScript
-
-
+<br>
 ## Installation
 
 N/A
-
-
+<br>
 ## Usage
 
 The Prework Study Guide is essential! It provides great information on the basics of coding and how the 4 main pillars (HTML, CSS, Git and JavaScript) work together in helping produce proffessional and high quality webpage construction. Diligence in completing all the tasks of this study guide will make a big difference in building a solid knowledge base in this field. The prework Study Guide is the foundation for knowledge development and expertise in this field.
-
+<br>
 ## Credits
 
 N/A
-
-
+<br>
 ## License
 
 MIT License
